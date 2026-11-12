@@ -215,5 +215,5 @@ GitHub: https://github.com/anaghac72/distributed-dataset-builder
 ## 10. Authors
 
 - **Anagha C** — Person 1: Ingestion and Integration
-- **Akash S** — Person 2: Pipeline Development and Validation
+- **Akash S** — Person 2: Pipeline Development , Kafka Orchestration and Validation
   
